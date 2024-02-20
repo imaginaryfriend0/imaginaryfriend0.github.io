@@ -1,0 +1,85 @@
+html, body, ul, ol, hr {
+	padding: 0;
+	margin: 0;
+}
+
+.head {
+	position: fixed;
+	width: 1920px;
+	height: 100px;
+	background-color: #c2f83e;
+	text-align:center;
+    margin-left: 0px;
+    padding: 0px;
+}
+
+.logo {
+	position:absolute;
+    top:0px;
+    left:10px;
+    width: 90px;
+	height: 90px;
+}
+
+hr{
+	width: 100%;
+	position:relative;
+	height: 10px;
+    border-color: #A8F000;
+	border-style: none;
+	background-color: #A8F000;
+	padding: 0;
+}
+
+.body {
+	background-color: #f5fd72;
+	height: 1500px;
+	width: 1920px;
+	position: fixed;
+	margin-top: 100px;
+	margin-left: 0px;
+	padding: 0px;
+}
+
+.menu {
+	position: fixed;
+	height: 1500px;
+	width: 400px;
+	background-color: #FFFB40;
+}
+
+.menuhr {
+	position: fixed;
+	height: 1500px;
+	width: 10px;
+	border-color: #A8F000;
+	border-style: none;
+	background-color: #A8F000;
+	padding: 0;
+	margin-left: 400px;
+}
+
+.main {
+	margin-left: 410px;
+	color: #1A2700;
+}
+
+.mainh1 {
+	position: relative;
+	font-size: 20px;
+	padding-left: 10px;
+	padding-top: 5px;
+	margin: 0px;
+	padding-bottom: 0px;
+	font-weight: bold;
+	color: #1A2700;
+}
+
+.mainp {
+	position: relative;
+	font-size: 20px;
+	padding-left: 10px;
+	margin: 0px;
+	padding-bottom: 0px;
+	color: #1A2700;
+}
